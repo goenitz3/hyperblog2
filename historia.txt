@@ -4,3 +4,4 @@ Aquí es donde les relato un poco acerca de mi:
 
 * Mi nombre es Jaime Antonio Macias Alvarez, soy Ing. en Sistemas Comutacionales.
 * En este momento estoy entrenandome para ser un Desarrollador Full Stack.
+* Estoy en cursos de JavaScript y Git y GitHub
