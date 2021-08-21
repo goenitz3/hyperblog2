@@ -1,14 +1,18 @@
 body {
-    text-align: center;
+    text-align: left;
     font-family: "Arial";
     color: purple;
 
 }
 
+.cabecera {
+    text-align: left;
+}
+
 .container {
     width: 70%;
     padding: 1em;
-    text-align: lefet;
+    text-align: center;
     border: 1px solid #DDD;
     margin: 0 auto;
 }
