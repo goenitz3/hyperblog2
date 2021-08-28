@@ -43,3 +43,12 @@ body {
 .container h1 {
     color: black;
 }
+.footer {
+    background-color:gray;
+    color:white;
+    font-size: 14px;
+    font-weight: bold;
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+}
