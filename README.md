@@ -1,4 +1,4 @@
-## HyperBlog :tw-1f44c:
+## HyperBlog :blue_heart
 
 Este repositorio es para realizar las prácticas del curso de Git y GitHub de Platzi
 
