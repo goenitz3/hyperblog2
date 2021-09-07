@@ -9,4 +9,5 @@ Aquí es donde les relato un poco acerca de mi:
 * Macrey ha creado una cuenta en ubuntu para trabajar con Git
 * Macrey colabora en este proyecto open source.
 * Master 1
+* Master 2
 
