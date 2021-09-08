@@ -19,3 +19,4 @@ Este repositorio es para realizar las prácticas del curso de Git y GitHub de Pl
 * Clonar repositorios de GitHub
 * Mantener actualizados el repositorio local y remoto.
 * Agregar colaboradores en GitHub
+* Creado por el gran desarrollador Jaime Macias
